@@ -22,8 +22,6 @@ workflow used in automotive OEM regulatory departments.
 - Regulation codes based on actual UN/ECE regulation references
 
 ## Key Findings
-## Dashboard Preview
-![Compliance Dashboard](compliance_dashboard.png)
 - Overall compliance rate: 61.5% across all models and markets
 - Malaysia is the only market below the 60% target at 50%
   — flagged as highest-priority market for compliance action
@@ -34,6 +32,8 @@ workflow used in automotive OEM regulatory departments.
 - 35 items flagged for immediate action, with the most urgent
   deadline in January 2025 (Calya — DRL Exterior Lighting,
   Philippines)
+  ## Dashboard Preview
+![Compliance Dashboard](compliance_dashboard.png)
 
 ## Output files
 - `compliance_dashboard.png` — 4-chart compliance overview
