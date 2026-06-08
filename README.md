@@ -1,5 +1,5 @@
 # Vehicle Regulation Compliance Tracker
-**by Pujo Trihantoro | Mechanical Engineering Graduate**
+**by Pujo Trihantoro | Automotive Mechanical Engineering Graduate**
 
 ## Background
 This project simulates ICF (International Certification Framework)
